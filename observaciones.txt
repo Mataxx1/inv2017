@@ -1,0 +1,9 @@
+filtro para iglesias c
+localidad
+nombre 
+municipio
+añadir localidad (importante)
+
+cambiar longitud a 8 en acompanante->sexo
+menú
+borrar las entregas
